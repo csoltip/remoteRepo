@@ -10,6 +10,7 @@ namespace GitProba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Helló GIT!");
         }
     }
 }
